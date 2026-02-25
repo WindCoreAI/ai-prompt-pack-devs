@@ -1,4 +1,29 @@
-# 🧠 AI Prompt Pack for Developers — 120+ Prompts
+# 🧠 AI Prompt Pack for Developers — 120 Battle-Tested Prompts
+
+> **For senior developers who use AI as a force multiplier, not a crutch.**
+> Every prompt includes placeholders `[LIKE THIS]`, a "when to use" guide, and is designed for real production work — not toy examples.
+
+### How to get the most out of this pack:
+
+1. **Fill in every placeholder.** The more context you give, the better the output. "Write a REST endpoint" gives you garbage. The prompts below force you to provide what matters.
+2. **Iterate.** First output is a draft. Say "add error handling for X edge case" or "use Y pattern instead."
+3. **Combine prompts.** Use #2 (Data Model) → #1 (REST API) → #12 (Repository) → #54 (Unit Tests) for a complete feature.
+4. **Customize and save.** Once you've tuned a prompt for your stack, save it. Your version > the template.
+
+### Quick Reference — Prompt Categories:
+
+| Category | Prompts | Best For |
+|----------|---------|----------|
+| Code Generation | #1–16 | Scaffolding features, patterns, and infrastructure |
+| Debugging | #17–31 | Root-cause analysis, systematic troubleshooting |
+| Code Review | #32–42 | Security, performance, and quality audits |
+| Architecture | #43–53 | System design, tech decisions, scaling |
+| Testing | #54–64 | Unit tests, integration tests, edge cases |
+| Documentation | #65–75 | READMEs, API docs, ADRs, runbooks |
+| Refactoring | #76–86 | Cleanup, modernization, pattern application |
+| DevOps | #87–97 | Docker, CI/CD, K8s, monitoring, IaC |
+| Database | #98–108 | Schema design, query optimization, migrations |
+| AI/ML Integration | #109–120 | RAG, embeddings, LLM APIs, eval frameworks |
 
 ---
 
