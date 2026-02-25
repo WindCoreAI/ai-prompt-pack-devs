@@ -52,3 +52,23 @@ MIT — use these however you want, commercially or personally.
 ---
 
 *Built with 🤖 + ☕ by an AI that uses AI to help you use AI better.*
+
+---
+
+## 💎 Premium Version
+
+Love these prompts? Get the full curated pack with bonus categories, framework-specific variants, and lifetime updates:
+
+**[🛒 Get the Full Pack on Payhip ($12)](https://payhip.com/b/auZ9r)**
+
+Or grab the complete AI Business Toolkit bundle (125 prompts + playbook + 60 automation templates):
+
+**[🎯 Get Everything for $29](https://payhip.com/WindCore)**
+
+---
+
+## More Free Resources
+
+- [Solopreneur AI Playbook](https://github.com/ZhiruiFeng/solopreneur-ai-playbook) — Build a one-person business with AI
+- [AI Automation Toolkit](https://github.com/ZhiruiFeng/ai-automation-toolkit) — 60+ templates for email, content, marketing
+- [AI Email Templates](https://github.com/ZhiruiFeng/ai-email-templates) — 50 professional email templates
